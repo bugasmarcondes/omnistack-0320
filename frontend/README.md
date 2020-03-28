@@ -68,3 +68,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 # frontend
+
+- deletando arquivos README, App.css, App.test.js, index.css, logo.svg, serviceWorker.js, setupTests.js
+- criando Hello World
+- criando componente Header
+- copiando assets para pasta src
