@@ -69,7 +69,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 # frontend
 
+- layout do projeto foi feito utilizando o Figma
+
 - deletando arquivos README, App.css, App.test.js, index.css, logo.svg, serviceWorker.js, setupTests.js
 - criando Hello World
 - criando componente Header
 - copiando assets para pasta src
+- criando página e componente /pages/Logon
+- instalando pacote de ícones no React
+    - yarn add react-icons
+- estilizando a aplicação
