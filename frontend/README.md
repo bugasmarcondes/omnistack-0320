@@ -79,3 +79,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 - instalando pacote de ícones no React
     - yarn add react-icons
 - estilizando a aplicação
+- instalando react-router-dom e configurando novas rotas SPA
+    1. yarn add react-router-dom
+    2. criando /src/routes.js
+    3. criando rotas para Logon, Register, Profile, NewIncident
+- conectando frontend com backend utilizando axios
+    1. yarn add axios
+    2. conectando componente Register com chamadas ao backend
