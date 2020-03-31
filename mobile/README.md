@@ -31,6 +31,7 @@
     3. ajustar componente Incidents para chamar API
     4. yarn add intl
         - para realizar a internacionalização da moeda no Android
+- implementando loading e paginação infinita
 
 ## conceitos
     - trabalhamos na estrutura somente com tag <View> e <Text>
