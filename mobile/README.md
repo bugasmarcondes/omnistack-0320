@@ -25,7 +25,12 @@
     - utilizando componente para envio de e-mail
         - expo install expo-mail-composer
     - utilizando deeplinking para fazer mensgem do Whatsapp funcionar
-
+- conectando com API
+    1. yarn add axios
+    2. criar /src/services/api.js
+    3. ajustar componente Incidents para chamar API
+    4. yarn add intl
+        - para realizar a internacionalização da moeda no Android
 
 ## conceitos
     - trabalhamos na estrutura somente com tag <View> e <Text>
