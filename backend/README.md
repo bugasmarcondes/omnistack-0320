@@ -29,3 +29,10 @@
     - yarn add cors
 - instalar celebrate para validações
     - yarn add celebrate
+- instalar jest para realizar testes
+    1. yarn add jest
+    2. executar na raiz de backend: npx jest --init (yes, node, no, yes)
+    3. criar pastas tests na raiz de backend
+        - integration (testa por completo uma funcionalidade)
+        - unit (testa um pedaço isolado da aplicação, como uma função por exemplo, não se comunica com outros pedaços)
+    4. escrever testes
