@@ -27,3 +27,5 @@
     2. criação do arquivo IncidentController.js e inclusão no routes.js
 - instalar CORS
     - yarn add cors
+- instalar celebrate para validações
+    - yarn add celebrate
