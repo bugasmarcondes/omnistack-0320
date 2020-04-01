@@ -30,9 +30,18 @@
 - instalar celebrate para validações
     - yarn add celebrate
 - instalar jest para realizar testes
-    1. yarn add jest
+    1. yarn add jest -D
     2. executar na raiz de backend: npx jest --init (yes, node, no, yes)
     3. criar pastas tests na raiz de backend
         - integration (testa por completo uma funcionalidade)
         - unit (testa um pedaço isolado da aplicação, como uma função por exemplo, não se comunica com outros pedaços)
-    4. escrever testes
+- escrever teste unitário
+- escrever teste de integração
+    1. criar objeto para banco de testes
+    2.a. instalar pacote para descobrir se estamos em ambiente de Dev ou Tests
+        - yarn add cross-env
+    2.b. alterando estrutura para facilitar trabalhos em base de desenvolvimento e na base de testes
+    2.c. ajustando script no package.json
+    3. instalar supertest para permitir chamadas a API e verificação de seus retornos
+        - yarn add supertest
+    3. escrever teste
