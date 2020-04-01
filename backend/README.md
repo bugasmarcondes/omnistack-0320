@@ -45,3 +45,11 @@
     3. instalar supertest para permitir chamadas a API e verificação de seus retornos
         - yarn add supertest
     3. escrever teste
+
+## deploy
+
+- enquanto em desenvolvimento, podemos utilizar heroku
+    - youtube "Deploy de aplicação NodeJS e ReactJS no Heroku | Diego Fernandes"
+- iniciando a comercialização, podemos utilizar digital ocean
+    - youtube "Deploy de apps Node.js | Masterclass #03"
+- quando crescer muito, podemos migrar para aws, azure ou gcp

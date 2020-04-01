@@ -40,3 +40,9 @@
     - propriedades do css ficam em camelCase
     - não existe herança de estilos no React Native, cada elemento deve ser estilizado por conta
     - buscar informações sobre o Expo sempre na documentação oficial: https://docs.expo.io/versions/latest/guides/routing-and-navigation/
+
+## deploy / gerar app
+
+- youtube "Gerando APK (Android) e IPA (IOS) com React Native & Expo | Code/Drops #15"
+    - IOS $99/mês para ter uma conta
+    - Google $25/mês para ter uma conta

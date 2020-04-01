@@ -86,3 +86,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 - conectando frontend com backend utilizando axios
     1. yarn add axios
     2. conectando componente Register com chamadas ao backend
+
+## deploy
+
+- enquanto em testes, podemos utilizar o netlify, pois integra muito fácil com React, Angular, Vue
